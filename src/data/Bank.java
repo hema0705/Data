@@ -1,7 +1,17 @@
 package data;
 
 public class Bank {
+	
+	private void pass() 
+	{
+		System.out.println("helllooo");
+	}
+	
+	
+	
 public static void main(String[] args) {
+
+	
 	System.out.println("Enter the double value");
 	double d=657.76;
 	System.out.println("double value is " +d);
