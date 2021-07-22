@@ -1,6 +1,14 @@
 package data;
 
 public class Bank {
+	 
+	private void demo()
+	{
+		System.out.println("hello wrold");
+	}
+	
+	
+	
 public static void main(String[] args) {
 	System.out.println("Enter the double value");
 	double d=657.76;
